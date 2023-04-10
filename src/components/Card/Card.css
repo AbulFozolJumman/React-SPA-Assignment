@@ -1,0 +1,13 @@
+.author-img{
+    width: 60px;
+    height: 60px;
+}
+.bookmark-btn{
+    color: black;
+}
+.bookmark-btn :hover{
+    color: blue;
+}
+.poster{
+    border-radius: 5px;
+}

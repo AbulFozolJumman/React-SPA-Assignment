@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "authorName": "Cristiano Ronaldo",
+        "blogTitle": "How to become the Best player in the World of Football ?",
+        "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpd3148G3KqaBWk4Xvv7jxc_ZZ5fHxLmEzNQ&usqp=CAU",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QDT36oRSE9iKJfnw9LpdBjGe275tZGLIuQ&usqp=CAU",
+        "readTime": 5,
+        "publishDate": "5th February, 1985"
+    },
+    {
+        "id":2,
+        "authorName": "Zinedine Zidane",
+        "blogTitle": "How to become the Best midfielder in the World of Football ?",
+        "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHgYju37wtKiSSnRKcBVIH-p5spWETP7-AMA&usqp=CAU",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvi-8TfMy5WLAlPSSLgOwRMwfwJxEuYc7tQ&usqp=CAU",
+        "readTime": 6,
+        "publishDate": "6th February, 1986"
+    },
+    {
+        "id":3,
+        "authorName": "Sergio Ramos",
+        "blogTitle": "How to become the Best defender in the World of Football ?",
+        "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_EXZB0g8wGaTwc14qmFYp9svqszOHMEsfg&usqp=CAU",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsia9qBuTWWJchYHnJpgH31N_oEjKnPAEczw&usqp=CAU",
+        "readTime": 7,
+        "publishDate": "7th February, 1987"
+    },
+    {
+        "id":4,
+        "authorName": "Manuel Nauer",
+        "blogTitle": "How to become the Best goalkeeper in the World of Football ?",
+        "authorImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTBo4tY9KhpvXk48nkFpuGukRgZZ0JCUIxg&usqp=CAU",
+        "coverImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLGiW1Om84e1DHFSC539_NjAM_WwesacLXpg&usqp=CAU",
+        "readTime": 8,
+        "publishDate": "8th February, 1988"
+    }
+]

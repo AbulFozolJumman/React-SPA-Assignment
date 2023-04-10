@@ -1,0 +1,15 @@
+.time{
+    border: 2px solid rgb(0, 191, 255);
+    color: rgb(0, 191, 255);
+    padding: 15px;
+    border-radius: 8px;
+    background-color: lightblue;
+    margin-bottom: 30px;
+}
+.blogs{
+    background-color: lightgrey;
+    border-radius: 8px;
+}
+.blog{
+    border-radius: 8px;
+}
